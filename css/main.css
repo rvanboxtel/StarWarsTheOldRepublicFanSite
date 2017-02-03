@@ -1,0 +1,16 @@
+.portfolio_description {position:absolute;width:100%;top:0;background-color:rgba(255, 255, 255, 0.0);}
+.image-bg-fluid-height,.image-bg-fixed-height {text-align: center;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;-o-background-size: cover;}
+.image-bg-fluid-height {background: url('../planets/dromund-kaas/dromund-kaas-wallpaper-001.jpg')no-repeat center center scroll;}
+.image-bg-fixed-height {background: url('../planets/dromund-kaas/dromund-kaas-wallpaper-001.jpg') no-repeat center center scroll;
+    height: 400px;}
+.img-center {margin: 0 auto;}
+section {padding: 75px 0;}
+.section-heading {margin: 30px 0;font-size: 4em;}
+.section-lead {margin: 30px 0;}
+.section-paragraph {margin: 30px 0;}
+footer {margin: 50px 0;}
+@media(max-width:768px) {
+    section {padding-top: 25px;padding-bottom: 25px;}
+    .section-heading {font-size: 2em;}
+}
+.img-margin{padding: 0}
